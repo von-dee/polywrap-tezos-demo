@@ -1,6 +1,6 @@
 {
   "name": "@web3api/harbinger-wrapper-example",
-  "homepage": "https://von-dee.github.io/polywrap-tezos-demo/harbinger-demo/",
+  "homepage": "https://von-dee.github.io/polywrap-tezos-demo/harbinger/",
   "description": "Example of harbinger wrapper",
   "version": "0.1.0",
   "private": true,
